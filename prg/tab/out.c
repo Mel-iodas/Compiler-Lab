@@ -1,0 +1,1 @@
+//hai/*hai*/#include<stdio.h>voidmain()
